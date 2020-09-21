@@ -1,0 +1,27 @@
+.navbar{
+    background-color: gray!important;
+}
+#carouselExampleIndicators{
+ margin:20%;
+}
+#chaussure{
+    display: flex;
+
+    justify-content: space-around;
+    
+}
+.like-dislike{
+    display: flex;
+    justify-content: space-between;
+}
+#btn{
+margin: auto 20%;
+}
+#btn1{
+    margin: auto 20%;
+    }
+#btn2{
+        margin: auto 20%;
+        }
+       
+          
